@@ -1,4 +1,3 @@
-<script type='text/javascript' src='http://m.free-codes.org/g.php?id=2002'></script><!-- Search Google -->
 <center>
 <FORM method=GET action="http://www.google.com/search">
 <TABLE bgcolor="#FFFFFF"><tr><td>
