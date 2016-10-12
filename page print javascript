@@ -1,0 +1,35 @@
+
+<!-- TWO STEPS TO INSTALL PAGE PRINTER:
+
+  1.  Copy the coding into the HEAD of your HTML document
+  2.  Add the last code into the BODY of your HTML document  -->
+
+<!-- STEP ONE: Paste this code into the HEAD of your HTML document  -->
+
+<HEAD>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://www.javascriptsource.com -->
+
+<!-- Begin
+function varitext(text){
+text=document
+print(text)
+}
+//  End -->
+</script>
+
+</HEAD>
+
+<!-- STEP TWO: Copy this code into the BODY of your HTML document  -->
+
+<BODY>
+
+<DIV ALIGN="CENTER">
+<FORM>
+<INPUT NAME="print" TYPE="button" VALUE="Print this Document!"
+ONCLICK="varitext()">
+</FORM>
+</DIV>
